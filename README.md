@@ -15,6 +15,8 @@ If you are developing a production application, we recommend using TypeScript an
 
 SImple caht application to generate bullect points or get-summary from local LLM or other apis
 
+command npm intall
+npm run start
 .env sample_values
 VITE_BASE_URL=http://localhost:8000
 
